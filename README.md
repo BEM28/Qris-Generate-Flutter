@@ -1,16 +1,11 @@
-# qristes
+# QRIS Dynamic Generator Flutter
 
-A new Flutter project.
+Project ini dibuat untuk generate QRIS dinamis khusus pembayaran Gopay.  
+Dengan repo ini, kamu bisa generate QRIS dari **NMID merchant** dan langsung nentuin nominal pembayaran sesuai kebutuhan.
 
-## Getting Started
+## 🚀 Fitur
+- Generate QRIS Gopay dinamis.
+- Bisa masukin nominal pembayaran secara custom.
+- Output berupa QR Code yang bisa langsung di-scan.
+- Support format standar EMVCo (QRIS).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
